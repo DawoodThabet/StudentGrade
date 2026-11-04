@@ -1,0 +1,6 @@
+# Generated Java build files
+build/
+dist/
+
+# NetBeans local settings
+nbproject/private/
